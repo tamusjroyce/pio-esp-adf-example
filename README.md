@@ -1,5 +1,7 @@
 # PlatformIO ESP-ADF example
 
+This includes binary codecs, some of which have patents. Be aware this is not completely an open source project. But it is still an excellent example. Codecs look like they come from the Android project.
+
 ## Description
 
 See https://community.platformio.org/t/esp32-adf-audio-dev-framework-please-help/
