@@ -1,6 +1,6 @@
 # PlatformIO ESP-ADF example
 
-This includes binary codecs, some of which have patents. Be aware this is not completely an open source project. But it is still an excellent example. Codecs look like they come from the Android project. Read [/lib/esp_codec/lib/patent_disclaimer.txt](/lib/esp_codec/lib/patent_disclaimer.txt) for details.
+This includes binary codecs, some of which have patents. Be aware this is not completely an open source project. But it is still an excellent example. Codecs look like they come from the Android project. Read [./lib/esp_codec/lib/patent_disclaimer.txt](/lib/esp_codec/lib/patent_disclaimer.txt) for details.
 
 ## Description
 
